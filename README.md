@@ -35,4 +35,7 @@ When client use the API, user is locked until request ends and then is unlocked.
 - In order to reduce complexity of exercise, system has 3 users with its respective wallet.
 
 
+- Currencies fiat and crypto is in cents to avoid float numbers.
+
+
 - I used [railway](https://railway.app/) to deploy
